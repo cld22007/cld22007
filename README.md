@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here y
 - ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-333333?style=flat&logo=microsoft-word)
 - ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-333333?style=flat&logo=microsoft-powerpoint)
 
-## GitHub Stats
-
-![cld22007's GitHub stats](https://github-readme-stats.vercel.app/api?username=cld22007&show_icons=true&theme=dark)
 
 ## Let's Connect
 
