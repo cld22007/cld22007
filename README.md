@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here y
 
 ## Let's Connect
 
-- [LinkedIn]([#](https://www.linkedin.com/in/cristian-distefano/)) (Insert your LinkedIn profile link)
+- [LinkedIn](https://www.linkedin.com/in/cristian-distefano/)
 
 Thank you for visiting my profile! Have a great day! 😊
