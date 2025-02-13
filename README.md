@@ -1,6 +1,6 @@
 # Hi there, I'm Cristian! 👋
 
-Welcome to my GitHub profile! I'm passionate about technology and coding. Here you'll find some of the projects I've been working on.
+Welcome to my GitHub profile! Here you'll find some of the projects I've been working on.
 
 ## About Me
 - 📚 I'm a student at the University of Connecticut pursuing a dual degree in Computer Science and Statistical Data Science.
