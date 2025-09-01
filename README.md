@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - 💬 Ask me about **data analysis**, **machine learning**, or anything related to coding and technology.
 - 📫 How to reach me: [cristian.distefano@uconn.edu](mailto:cristian.distefano@uconn.edu)
 
+### Current Project:
+I'm currently working on a web dashboard that ingests historical market data, backtests strategies (equal-weight, mean-variance, constrained optimization), and produces actionable portfolio allocations and performance reports — built with Python (Pandas, SciPy/cvxpy), interactive visualization (Plotly/Streamlit), and deployed for demo.
+
+
 ---
 
 ## 🛠️ Technical Skills
